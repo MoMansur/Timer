@@ -1,0 +1,24 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private":true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoMansur/Timer.git"
+  },
+  "author": "Mansur mansurshehumsm@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoMansur/Timer/issues"
+  },
+  "homepage": "https://github.com/MoMansur/Timer#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
